@@ -1,0 +1,7 @@
+create listo
+select id = 1
+select * getAll (es con el find), es un arreglo del modelo que quiero buscar
+borrar listo (soft y permanente).
+actualizar listo.
+
+HACER UN SELECT DE la tabla empresa y que me traiga * pero 
